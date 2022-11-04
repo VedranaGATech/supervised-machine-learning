@@ -10,14 +10,13 @@ In this assignment, we are building a machine learning model that attempts to pr
 
 3.  Consider the models
 
-![Alt text](../../../../../../C:/Users/vedra/Documents/GitHub/supervised-machine-learning/Images/load.png)
-
+![image1](/Images/load.png)
 
 ## Fit a LogisticRegression model and RandomForestClassifier model
 
 Create a LogisticRegression model, fit it to the data, and print the model's score. Do the same for a RandomForestClassifier. 
 
-![Alt text](../../../../../../C:/Users/vedra/Documents/GitHub/supervised-machine-learning/Images/models.png)
+![image2](Images/models.png)
 
 ### References
 
